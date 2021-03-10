@@ -1,4 +1,4 @@
-# Adding Pages
+# Adding Content
 
 ## Building Sidebars
 
