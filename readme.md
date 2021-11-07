@@ -85,4 +85,4 @@ While the left hand sidebar needs to be manually created based on the steps prov
 
 # Credit
 
-This was modified from the (Docc Template)[https://github.com/mrcrmn/docc] for Gridsome. 
+This was modified from the [Docc Template](https://github.com/mrcrmn/docc) for Gridsome. 
