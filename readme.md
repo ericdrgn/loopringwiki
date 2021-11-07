@@ -82,3 +82,7 @@ next: '/learn/onboarding/'
 ### Page Structure
 
 While the left hand sidebar needs to be manually created based on the steps provided the right hand sidebar is auto-generated based on the headers within the markdown file(s). The first header (#) becomes the title of the page and then every header after that (##, ###) continues to automatically build out the sidebar on the right hand side for each page.
+
+# Credit
+
+This was modified from the (Docc Template)[https://github.com/mrcrmn/docc] for Gridsome. 
